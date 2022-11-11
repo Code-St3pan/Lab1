@@ -1,0 +1,26 @@
+{
+  "name": "lab1node",
+  "version": "1.0.0",
+  "description": "lab1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+
+
+  },
+  "keywords": [],
+  "author": "NonamePoc",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NonamePoc/Lab1Node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NonamePoc/Lab1Node/issues"
+  },
+  "homepage": "https://github.com/NonamePoc/Lab1Node#readme",
+  "dependencies": {
+    "monet": "^0.9.3"
+  }
+}
