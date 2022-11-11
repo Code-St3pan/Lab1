@@ -10,16 +10,15 @@
 
   },
   "keywords": [],
-  "author": "NonamePoc",
+  "author": "Code_St3pan",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NonamePoc/Lab1Node.git"
+    "url": "git+https://github.com/Code-St3pan/Lab1"
   },
   "bugs": {
-    "url": "https://github.com/NonamePoc/Lab1Node/issues"
+    "url": "https://github.com/Code-St3pan/Lab1/issues"
   },
-  "homepage": "https://github.com/NonamePoc/Lab1Node#readme",
   "dependencies": {
     "monet": "^0.9.3"
   }
